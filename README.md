@@ -160,7 +160,7 @@ We will now ssh onto the machine using Bash for Windows on Windows 10, or putty 
 
 * Select yes to the message "Are you sure you want to continue connecting"
 * Type in password MiniCADAdmin123 - note this is hardcoded in the deploy
-* Paste the following in the command line: ``` git clone https://github.com/shanepeckham/CADHackathon_Loyalty.git ```
+* Paste the following in the command line: ``` git clone https://github.com/sabbour/CADLab_Loyalty.git ```
 * Now type ``` cd CADHackathon_Loyalty ```
 * Now type ``` bash installVM.sh ```
 * Upon completion you will see a screen similar to that below, with the final status 'Starting Legacy API'
@@ -217,7 +217,7 @@ We have now set up the legacy Ticket API in our process.
 
 Click on the Deploy button below.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsabbour2FCADHackathon_Loyalty%2Fmaster%2Fazuredeployfunctionsettings.json" target="_blank">
+ab<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsabbour2FCADLab_Loyalty%2Fmaster%2Fazuredeployfunctionsettings.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
