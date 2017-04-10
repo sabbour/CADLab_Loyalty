@@ -217,7 +217,7 @@ We have now set up the legacy Ticket API in our process.
 
 Click on the Deploy button below.
 
-ab<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsabbour2FCADLab_Loyalty%2Fmaster%2Fazuredeployfunctionsettings.json" target="_blank">
+ab<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsabbour%2FCADLab_Loyalty%2Fmaster%2Fazuredeployfunctionsettings.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
