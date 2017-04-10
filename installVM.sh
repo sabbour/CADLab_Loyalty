@@ -27,7 +27,7 @@ echo "Data loaded successfully"
 echo "Getting Code"
 mkdir LegacyAPI
 cd LegacyAPI
-git clone https://github.com/shanepeckham/CADContacts.git
+git clone https://github.com/sabbour/CADContacts.git
 cd CADContacts
 git checkout mysql
 npm install
